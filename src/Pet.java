@@ -3,6 +3,7 @@ public class Pet {
   String breed;
   String name;
 
+  // ввызываем сочитанием клавиш alt + insert
   @Override   // переопредиление
   public String toString() {
     return "Pet{" +
